@@ -10,3 +10,5 @@ first
 second
 
 check reset:
+first commit to local repository
+second commit to local repository
