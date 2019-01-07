@@ -13,3 +13,5 @@ check reset:
 first commit to local repository
 second commit to local repository
 check edit at gitHub
+
+test branch revert
